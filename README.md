@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I’m Sumit Arora</h1>
 
-<p align="center">
+<h3 align="center">
   <strong>Software Engineer</strong> from India <br/>
   Building <strong>secure backend systems</strong> and <strong>Android applications</strong> using
   <strong>Java, Spring Boot, Kotlin, and Jetpack Compose</strong>
-</p>
+</h3>
 
----
+
 
 🔭 <strong>Currently working as:</strong><br/>
 <strong>Software Developer & ERP Intern at Xencore Global Pvt. Ltd.</strong>  
