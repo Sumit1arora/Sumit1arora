@@ -9,7 +9,7 @@
 
 
 🔭 <strong>Currently working as:</strong><br/>
-<strong>Software Developer & ERP Intern at Xencore Global Pvt. Ltd.</strong>  
+<strong>Software Development Intern At Cent</strong>  
 - Designing and optimizing REST APIs  
 - Building reliable, API-driven backend workflows  
 
