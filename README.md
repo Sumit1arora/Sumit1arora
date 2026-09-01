@@ -29,7 +29,7 @@ Java • Spring Boot • Android Development • Backend Architecture • Cloud 
 📧 sumitarora.officiall@gmail.com
 
 📄 <strong>View my resume:</strong><br/>
-🔗 https://drive.google.com/file/d/1Y6mtpmuzcP8fn-nYIGuyzEp-_BfiQt6L/view?usp=sharing
+🔗 https://drive.google.com/file/d/1E5a2ocBgk-R_OjPVhXh0VXEyU-pYXYYF/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
