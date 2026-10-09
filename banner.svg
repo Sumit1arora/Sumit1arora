@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6DB33F"/>
+      <stop offset="1" stop-color="#3DDC97"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E2A3E" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#6DB33F" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6DB33F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)" opacity="0.6"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- left: identity -->
+  <text x="64" y="92" fill="#8FA3BF" font-size="18" letter-spacing="3">HI, I'M</text>
+  <text x="62" y="152" fill="#F2F6FC" font-size="58" font-weight="700">Sumit Arora</text>
+  <rect x="64" y="172" width="120" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="214" fill="#C9D6E8" font-size="22">Backend · Mobile · Full-Stack Developer</text>
+  <text x="64" y="248" fill="#8FA3BF" font-size="17">Java 21 · Spring Boot · Kotlin · AI-augmented engineering</text>
+
+  <g transform="translate(64,270)">
+    <circle cx="7" cy="9" r="6" fill="#3DDC97">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="22" y="15" fill="#3DDC97" font-size="15" font-weight="600">Open to SDE-1 roles &amp; freelance projects</text>
+  </g>
+
+  <!-- right: terminal card -->
+  <g transform="translate(700,52)">
+    <rect width="440" height="216" rx="12" fill="#0A0F1A" stroke="#26344D"/>
+    <rect width="440" height="34" rx="12" fill="#151F31"/>
+    <rect y="22" width="440" height="12" fill="#151F31"/>
+    <circle cx="22" cy="17" r="6" fill="#FF5F57"/>
+    <circle cx="42" cy="17" r="6" fill="#FEBC2E"/>
+    <circle cx="62" cy="17" r="6" fill="#28C840"/>
+    <text x="220" y="22" fill="#6B7C96" font-size="13" text-anchor="middle" font-family="Consolas, 'Courier New', monospace">sumit@dev ~ </text>
+
+    <g font-family="Consolas, 'Courier New', monospace" font-size="15" xml:space="preserve">
+      <text x="22" y="68"><tspan fill="#3DDC97">$</tspan><tspan fill="#C9D6E8"> whoami --stack</tspan></text>
+      <text y="96" fill="#8FA3BF"><tspan x="40">backend</tspan><tspan x="122">→</tspan><tspan x="146" fill="#F2F6FC">Spring Boot, PostgreSQL</tspan></text>
+      <text y="120" fill="#8FA3BF"><tspan x="40">mobile</tspan><tspan x="122">→</tspan><tspan x="146" fill="#F2F6FC">Kotlin, Jetpack Compose</tspan></text>
+      <text y="144" fill="#8FA3BF"><tspan x="40">infra</tspan><tspan x="122">→</tspan><tspan x="146" fill="#F2F6FC">Docker, AWS</tspan></text>
+      <text y="168" fill="#8FA3BF"><tspan x="40">ai</tspan><tspan x="122">→</tspan><tspan x="146" fill="#F2F6FC">Claude Code, MCP, RAG</tspan></text>
+      <text x="22" y="196"><tspan fill="#3DDC97">$</tspan><tspan fill="#C9D6E8"> </tspan></text>
+      <rect x="40" y="183" width="9" height="17" fill="#3DDC97">
+        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>

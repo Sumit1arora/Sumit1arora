@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#121C2E"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Backend -->
+  <g transform="translate(0,0)">
+    <rect x="1" y="1" width="282" height="246" rx="14" fill="url(#card)" stroke="#26344D"/>
+    <rect x="1" y="1" width="282" height="5" rx="2" fill="#6DB33F"/>
+    <g transform="translate(28,34)" fill="none" stroke="#6DB33F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="0" width="40" height="13" rx="3"/>
+      <rect x="0" y="19" width="40" height="13" rx="3"/>
+      <rect x="0" y="38" width="40" height="13" rx="3"/>
+      <circle cx="8" cy="6.5" r="1.5" fill="#6DB33F"/><circle cx="8" cy="25.5" r="1.5" fill="#6DB33F"/><circle cx="8" cy="44.5" r="1.5" fill="#6DB33F"/>
+    </g>
+    <text x="28" y="122" fill="#F2F6FC" font-size="22" font-weight="700">Backend &amp; APIs</text>
+    <text x="28" y="154" fill="#8FA3BF" font-size="15">REST APIs, auth &amp; security</text>
+    <text x="28" y="178" fill="#8FA3BF" font-size="15">Payments &amp; webhooks</text>
+    <text x="28" y="202" fill="#8FA3BF" font-size="15">Third-party integrations</text>
+    <text x="28" y="226" fill="#6DB33F" font-size="13" font-weight="600">Java · Spring Boot · Postgres</text>
+  </g>
+
+  <!-- Card 2: Mobile -->
+  <g transform="translate(305,0)">
+    <rect x="1" y="1" width="282" height="246" rx="14" fill="url(#card)" stroke="#26344D"/>
+    <rect x="1" y="1" width="282" height="5" rx="2" fill="#7F52FF"/>
+    <g transform="translate(34,30)" fill="none" stroke="#A88BFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="0" width="32" height="56" rx="6"/>
+      <line x1="12" y1="48" x2="20" y2="48"/>
+      <line x1="8" y1="10" x2="24" y2="10"/>
+    </g>
+    <text x="28" y="122" fill="#F2F6FC" font-size="22" font-weight="700">Mobile Apps</text>
+    <text x="28" y="154" fill="#8FA3BF" font-size="15">Native Android apps</text>
+    <text x="28" y="178" fill="#8FA3BF" font-size="15">Real-time &amp; location features</text>
+    <text x="28" y="202" fill="#8FA3BF" font-size="15">Firebase auth, push, data</text>
+    <text x="28" y="226" fill="#A88BFF" font-size="13" font-weight="600">Kotlin · Compose · Firebase</text>
+  </g>
+
+  <!-- Card 3: Full-stack web -->
+  <g transform="translate(610,0)">
+    <rect x="1" y="1" width="282" height="246" rx="14" fill="url(#card)" stroke="#26344D"/>
+    <rect x="1" y="1" width="282" height="5" rx="2" fill="#38BDF8"/>
+    <g transform="translate(28,34)" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="0" width="52" height="40" rx="5"/>
+      <line x1="0" y1="10" x2="52" y2="10"/>
+      <polyline points="16,20 10,26 16,32"/>
+      <polyline points="36,20 42,26 36,32"/>
+      <line x1="18" y1="50" x2="34" y2="50"/>
+    </g>
+    <text x="28" y="122" fill="#F2F6FC" font-size="22" font-weight="700">Full-Stack Platforms</text>
+    <text x="28" y="154" fill="#8FA3BF" font-size="15">Marketplaces &amp; dashboards</text>
+    <text x="28" y="178" fill="#8FA3BF" font-size="15">Business tools &amp; automation</text>
+    <text x="28" y="202" fill="#8FA3BF" font-size="15">ERP &amp; hardware integrations</text>
+    <text x="28" y="226" fill="#38BDF8" font-size="13" font-weight="600">Next.js · NestJS · Django</text>
+  </g>
+
+  <!-- Card 4: AI -->
+  <g transform="translate(915,0)">
+    <rect x="1" y="1" width="282" height="246" rx="14" fill="url(#card)" stroke="#26344D"/>
+    <rect x="1" y="1" width="282" height="5" rx="2" fill="#E8865F"/>
+    <g transform="translate(28,32)" fill="none" stroke="#E8865F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M26 0 L31 20 L52 26 L31 32 L26 52 L21 32 L0 26 L21 20 Z"/>
+    </g>
+    <text x="28" y="122" fill="#F2F6FC" font-size="22" font-weight="700">AI-Powered Features</text>
+    <text x="28" y="154" fill="#8FA3BF" font-size="15">Document Q&amp;A (RAG)</text>
+    <text x="28" y="178" fill="#8FA3BF" font-size="15">LLMs inside your product</text>
+    <text x="28" y="202" fill="#8FA3BF" font-size="15">Built faster with AI agents</text>
+    <text x="28" y="226" fill="#E8865F" font-size="13" font-weight="600">Claude Code · MCP · pgvector</text>
+  </g>
+</svg>
