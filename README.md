@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Sumit Arora — Backend, Mobile and Full-Stack Developer" />
+<img src="./assets/banner.svg" width="100%" alt="Sumit Arora — Backend, Mobile and Full-Stack Developer" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6DB33F&center=true&vCenter=true&width=640&lines=I+build+APIs+that+don't+fall+over.;Native+Android+apps+with+Kotlin+%2B+Compose.;Webhooks%2C+payments%2C+idempotency%2C+sync+jobs.;Shipping+faster+with+Claude+Code+%26+AI+agents.;Open+to+SDE-1+roles+%2B+freelance+projects." alt="Typing SVG" /></a>
 
@@ -29,7 +29,7 @@ I'm a developer who likes the unglamorous parts of software: **webhooks that arr
 
 ## 🧩 What I build
 
-<img src="./services.svg" width="100%" alt="Backend & APIs, Mobile Apps, Full-Stack Platforms, AI-Powered Features" />
+<img src="./assets/services.svg" width="100%" alt="Backend & APIs, Mobile Apps, Full-Stack Platforms, AI-Powered Features" />
 
 ---
 
